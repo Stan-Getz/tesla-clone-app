@@ -1,14 +1,14 @@
 export default [
   {
-    name: 'Model S',
-    tagline: 'Starting at $69,420',
-    image: require('../../assets/images/ModelS.jpeg'),
+    name: 'Model 3',
+    tagline: 'Starting at €43.070',
+    image: require('../../assets/images/Model3.jpeg'),
   },
   {
-    name: 'Model 3',
+    name: 'Model S',
     tagline: 'Order Online for',
     taglineCTA: 'Touchless Delivery',
-    image: require('../../assets/images/Model3.jpeg'),
+    image: require('../../assets/images/ModelS.jpeg'),
   },
   {
     name: 'Model X',
